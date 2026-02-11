@@ -25,10 +25,10 @@ const CONFIG = {
             text: "Do you lowkirk fuck with me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "Nein",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you my pookster"           // Secret hover message
+            secretAnswer: "I dont just lowkirk fuck with u. I love you"           // Secret hover message
         },
         second: {
-            text: "How much do you love me? for scientific studies ofc.",                          // For the love meter
+            text: "How much do you think i love you?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next "                                         // Text for the next button
         },
@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW I LOVE U TOO MY BBY <3",  // Shows when they go past 5000%
-        high: "I LOVE YOU TOO BBYYY I LOVE YOU I LOVE YOU",              // Shows when they go past 1000%
-        normal: "I LOVE YOU"                           // Shows when they go past 100%
+        extreme: "YES BBY I LOVE U EVEN MORE YES YES YES",  // Shows when they go past 5000%
+        high: "EHHHHHH WROOONNNNG",              // Shows when they go past 1000%
+        normal: "Wrong"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
